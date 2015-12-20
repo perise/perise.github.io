@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
+  <title><![CDATA[Perise Blog]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-12-20T13:24:54.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://perise.github.io/"/>
+  <updated>2015-12-20T14:01:27.000Z</updated>
+  <id>http://perise.github.io/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[Perise]]></name>
     
   </author>
   
@@ -16,14 +16,14 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2015/12/20/hello-world/"/>
-    <id>http://yoursite.com/2015/12/20/hello-world/</id>
-    <published>2015-12-20T13:24:54.000Z</published>
-    <updated>2015-12-20T13:24:54.000Z</updated>
-    <content type="html"><![CDATA[<p>the trail one</p>
+    <link href="http://perise.github.io/2015/12/20/hello-world/"/>
+    <id>http://perise.github.io/2015/12/20/hello-world/</id>
+    <published>2015-12-20T14:01:27.000Z</published>
+    <updated>2015-12-20T14:01:27.000Z</updated>
+    <content type="html"><![CDATA[<p>the trail one, i need test the templete</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>the trail one</p>
+    <![CDATA[<p>the trail one, i need test the templete</p>
 ]]>
     </summary>
     
